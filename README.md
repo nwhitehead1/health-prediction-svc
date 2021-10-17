@@ -1,5 +1,6 @@
 # health-prediction-svc
-Health Flask Webservice - CSC8600
+
+Service used to predict diagnosis using a linear model.
 
 In order to run, change directories to the python file and run:
 
